@@ -1,0 +1,15 @@
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagecreatefrompng(.img/bw2/text/black.png) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: No such file or directory in /home/extremes/ebay/templator/buttons.php on line 51
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 52
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 53
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 57
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 57
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 57
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 57
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 64
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 64
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 64
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 64
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 64
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagecopy() expects parameter 2 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 64
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/extremes/ebay/templator/buttons.php:51) in /home/extremes/ebay/templator/buttons.php on line 69
+[01-Jan-2014 08:30:03 America/Chicago] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/extremes/ebay/templator/buttons.php on line 72

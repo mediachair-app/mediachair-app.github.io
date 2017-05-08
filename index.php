@@ -1,0 +1,2 @@
+We apologize for the inconvenience, but the editor is still under development...<br>You can still buy the game without customization for the time being<br>
+The game includes everything described in the listing

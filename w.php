@@ -1,0 +1,422 @@
+<!-- Begin Description --><!-- Configuration -->
+<link rel="stylesheet" href="auctions/_ebay_w_new.css" type="text/css" />
+<!-- Begin -->
+<link rel="stylesheet" href="auctions/_ebay_bw.css" type="text/css" />
+<div style="padding: 1em; text-align: center; font-family: Arial, sans-serf; font-size: 12pt; background-color: black; color: red; font-weight: bold;" class="gh_hide">
+    Unfortunately, eBay couldn't load this auction description correctly this time.<br />
+    Please try disabling any internet filters and ad blockers and refresh the page!
+</div>
+<div class="gh_main">
+
+    <div class="gh_head"></div>
+    <table class="gh_t_a">
+        <tbody><tr>
+            <td class="gh_boxart-left">
+                <div class="gh_title">
+                    <div class="gh_only_mail" style="font-size: 14pt;">Mail in Your Own</div>
+                    <div class="gh_only_b">Pokémon Black Version 2</div>
+                    <div class="gh_only_w">Pokémon White Version 2</div>
+
+                </div>
+                <div class="gh_subtitle"><span>Completely Unlocked</span> and <span>Fully Customizable</span>!</div>
+                <div class="gh_title_a">
+                    <div class="gh_only_new">
+                        <div class="gh_only_b">
+                            <div class="gh_button"><img src="images/auctions/button_b2_01.png" alt="Loading" /></div>
+                            <div class="gh_button"><img src="images/auctions/button_b2_02.png" alt="Loading" /></div>
+                            <div class="gh_button"><img src="images/auctions/button_b2_03.png" alt="Loading" /></div>
+                        </div>
+                        <div class="gh_only_w">
+                            <div class="gh_button"><img src="images/auctions/button_w2_01.png" alt="Loading" /></div>
+                            <div class="gh_button"><img src="images/auctions/button_w2_02.png" alt="Loading" /></div>
+                            <div class="gh_button"><img src="images/auctions/button_w2_03.png" alt="Loading" /></div>
+                        </div>
+                        <div style="clear: left;"></div>
+
+                    </div>
+                    <div class="gh_only_mail gh_desc_msg">
+                        <div style="padding-bottom: 8px;">
+                            <b>IMPORTANT:</b> This auction is for you to <b>mail in</b> your own copy of Pokémon <span class="gh_only_b">Black</span><span class="gh_only_w">White</span>!
+                            Instructions are located at the bottom of the auction description! ^_^
+                        </div>
+
+                        <div>
+                            If you don't want to mail us a game for customization,<br />
+                            please do check out our other auctions for getting a brand new yet fully customized game!
+                        </div>
+                    </div>
+                </div>
+                <div class="gh_title_a">
+                    <div class="gh_only_b">
+                        <div class="gh_button"><img src="images/auctions/button_b2_04.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_b2_05.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_b2_06.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_b2_07.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_b2_08.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_b2_09.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_b2_10.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_b2_11.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_b2_12.png" alt="Loading" /></div>
+                    </div>
+
+                    <div class="gh_only_w">
+                        <div class="gh_button"><img src="images/auctions/button_w2_04.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_w2_05.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_w2_06.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_w2_07.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_w2_08.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_w2_09.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_w2_10.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_w2_11.png" alt="Loading" /></div>
+                        <div class="gh_button"><img src="images/auctions/button_w2_12.png" alt="Loading" /></div>
+                    </div>
+                    <div style="clear: left;"></div>
+                </div>
+            </td>
+            <td class="gh_boxart gh_only_new">
+                <div class="gh_only_b"><img src="images/auctions/box_b2.jpg" alt="Loading" /></div>
+                <div class="gh_only_w"><img src="images/auctions/box_w2.jpg" alt="Loading" /></div>
+            </td>
+
+            <td class="gh_boxart gh_only_mail">
+                <div class="gh_only_b"><img src="images/auctions/card_b2.jpg" alt="Loading" /></div>
+                <div class="gh_only_w"><img src="images/auctions/card_w2.jpg" alt="Loading" /></div>
+            </td>
+        </tr>
+    </tbody></table>
+    <table class="gh_t_a">
+        <tbody><tr>
+            <td class="gh_desc_a">
+
+                <table class="gh_desc_a_a" border="0" cellspacing="1">
+                    <tbody><tr><td colspan="3" class="gh_desc_head_a">Aspertia City: A city that reaches for the sky.</td></tr>
+                    <tr><td class="gh_desc_body">
+                        <div class="gh_screenshotdiv">
+                            <div class="gh_screenshotpics">
+                                <img src="images/screenshots/b2w2/beginning1.png" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/beginning2.png" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/beginning3.png" alt="Loading" style="border: 1px solid black;" />
+
+                                <img src="images/screenshots/b2w2/beginning4.png" alt="Loading" style="border: 1px solid black;" />
+                            </div>
+                        </div>
+                        <div class="gh_belowscreenshots" style="height: 104px;">
+                            <div style="padding-bottom: 6px;">
+                                The game's main story has been left completely untouched, so you will be starting your adventure from your very own room in <b>Aspertia City</b>!
+                            </div>
+                            <div style="padding-bottom: 6px;">
+
+                                This means you can challenge all of the Legendary Pokémon and Gym Leaders yourself!
+                            </div>
+                            <div>
+                                <b>Experience the full game with no limits!</b>
+                            </div>
+                        </div>
+                    </td></tr>
+                </tbody></table>
+            </td>
+
+            <td class="gh_desc_a">
+                <table class="gh_desc_a_a" border="0" cellspacing="1">
+                    <tbody><tr><td colspan="3" class="gh_desc_head_a">*EXCLUSIVE* -- Full Control Over Your Game</td></tr>
+                    <tr><td class="gh_desc_body">
+                        <div class="gh_screenshotdiv">
+                            <div class="gh_screenshotpics" style="text-align: center;">
+                                <a href="http://ebay.extremesaves.com/" target="_blank"><img src="images/screenshots/b2w2/customizer.jpg" alt="Loading" style="border: 1px solid black;" /></a>
+                            </div>
+
+                        </div>
+                        <div class="gh_belowscreenshots" style="height: 104px;">
+                            <div style="padding-bottom: 6px;">
+                                <b>Only with us</b> you have <b>full control</b> over your game!
+                                That means you can customize it to your liking in any and every single detail!
+                            </div>
+                            <div>
+                                We developed a straightforward, web-based tool where you can not only customize
+                                the Trainer but also every single Pokémon!
+                                After (or even before) winning this auction, you can submit your prefered configuration right over here:
+                            </div>
+
+                            <div style="padding-left: 15px;">
+                                • <a href="http://ebay.extremesaves.com/" target="_blank"><b>Pokémon DS Customizer</b></a>
+                            </div>
+                        </div>
+                    </td></tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody></table>
+    <table class="gh_t_a">
+        <tbody><tr>
+            <td class="gh_desc_a">
+                <table class="gh_desc_a_a" border="0" cellspacing="1">
+                    <tbody><tr><td class="gh_desc_head_b">Your 720 Pokémon in 24 PC Boxes</td></tr>
+
+                    <tr><td class="gh_desc_body">
+                        <div class="gh_screenshotdiv">
+                            <div class="gh_screenshotpics">
+                                <img src="images/screenshots/b2w2/box.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/trainer1.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/trainer2.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/shiny.gif" alt="Loading" style="border: 1px solid black;" />
+                            </div>
+                        </div>
+
+                        <div class="gh_belowscreenshots" style="height: 84px;">
+                            <div>
+                                In the PC Box System you can access at any Pokémon Center, you will find all
+                                649 different Pokémon in all 720 Slots! Start off your adventure with
+                                any Pokémon you like, even Shiny and at Lv. 100!
+                                Only with us you will you have full control!
+                                You can <a href="http://ebay.extremesaves.com/" target="_blank"><b>fully customize</b></a>
+                                every single possible aspect of every single Pokémon.
+                            </div>
+                        </div>
+                    </td></tr>
+                </tbody></table>
+
+            </td>
+            <td class="gh_desc_a">
+                <table class="gh_desc_a_a" border="0" cellspacing="1">
+                    <tbody><tr><td class="gh_desc_head_b">The Most Complete Pokémon Collection</td></tr>
+                    <tr><td class="gh_desc_body">
+                        <div class="gh_screenshotdiv">
+                            <div class="gh_screenshotpics">
+                                <img src="images/screenshots/b2w2/diploma.gif" alt="Loading" style="border: 1px solid black;" />
+
+                                <img src="images/screenshots/b2w2/pokedex1.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/pokedex2.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/pokedex3.gif" alt="Loading" style="border: 1px solid black;" />
+                            </div>
+                        </div>
+                        <div class="gh_belowscreenshots" style="height: 84px;">
+                            <div>
+                                <span class="gh_only_new">By default, your game comes with a fully completed Pokédex!</span>
+
+                                <span class="gh_only_mail">By default, your game returns to you with a fully completed Pokédex!</span> That means both the Unova and the National Pokédex will have all the international entries for every possible Pokémon registered in every of the six languages: English, French, Spanish, German, Italian, and Japanese! Forme and gender differences are in there as well!
+                            </div>
+                        </div>
+                    </td></tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+
+    <table class="gh_t_a">
+        <tbody><tr>
+            <td class="gh_desc_a">
+                <table class="gh_desc_a_a" border="0" cellspacing="1">
+                    <tbody><tr><td colspan="3" class="gh_desc_head_a">Event Pokémon Galore!</td></tr>
+                    <tr><td class="gh_desc_body">
+                        <div class="gh_screenshotdiv">
+                            <div class="gh_screenshotpics">
+
+                                <img src="images/screenshots/b2w2/victini-event.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/keldeo-event.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/meloetta-event.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/genesect-event.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/event-pokemon.gif" alt="Loading" style="border: 1px solid black;" />
+                            </div>
+                        </div>
+
+                        <div class="gh_belowscreenshots" style="height: 172px;">
+                            <div style="padding-bottom: 6px;">
+                                We collected many <b>Event Pokémon</b> from all around the world.
+                                Our Customizer lets you freely put any of our Event Pokémon into any Box slot!
+                                Because all our Event Pokémon are legit and tested, they will also of course
+                                unlock various Secret Events within the game for you to experience:
+                            </div>
+                            <div>
+                                Bring your <b>Keldeo</b> along with Cobalion, Terrakion, and Virizion to the Pledge Grove to teach Keldeo  its signature move: <b>Sacred Sword</b>!
+                                Head to Café Sonata where <b>Meloetta</b> will learn <b>Relic Song</b>, which allows her to change Formes!
+                                Head to the P2 Laboratory with your <b>Genesect</b> to learn its origin story and earn some important items!
+                                Last but not least, take <b>Victini</b> to Liberty Garden and find out what happens!
+                            </div>
+
+                        </div>
+                    </td></tr>
+                </tbody></table>
+            </td>
+            <td class="gh_desc_a">
+                <table class="gh_desc_a_a" border="0" cellspacing="1">
+                    <tbody><tr><td colspan="3" class="gh_desc_head_a">Challenge Every Legendary Pokémon in the Game</td></tr>
+                    <tr><td class="gh_desc_body">
+
+                        <div class="gh_screenshotdiv">
+                            <div class="gh_screenshotpics">
+                                <img class="gh_only_w" src="images/screenshots/b2w2/reshiram.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img class="gh_only_b" src="images/screenshots/b2w2/zekrom.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/kyurem.png" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/cobalion.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/terrakion.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/virizion.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/cresselia.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/regigigas.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/heatran.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/lake.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img class="gh_only_w" src="images/screenshots/b2w2/latias.png" alt="Loading" style="border: 1px solid black;" />
+                                <img class="gh_only_b" src="images/screenshots/b2w2/latios.png" alt="Loading" style="border: 1px solid black;" />
+                                <img class="gh_only_w" src="images/screenshots/b2w2/icerock.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img class="gh_only_b" src="images/screenshots/b2w2/steelrock.gif" alt="Loading" style="border: 1px solid black;" />
+                            </div>
+                        </div>
+                        <div class="gh_belowscreenshots" style="height: 172px;">
+                            <div style="padding-bottom: 6px;">
+                                <span class="gh_only_new">With your new game you're going to have access to any of the many Legendary Pokémon:</span>
+                                <span class="gh_only_mail">When your game is returned to you, you're going to have access to any of the many Legendary Pokémon:</span>
+
+                                <span class="gh_only_b"><b>Zekrom</b>, </span><span class="gh_only_w"><b>Reshiram</b>, </span><b>Kyurem</b>, <b>Cobalion</b>, <b>Terrakion</b>, <b>Virizion</b>, <b>Cresselia</b>, <b>Regigigas</b>, <b>Heatran</b>, <b>Uxie</b>, <b>Mesprit</b>, <b>Azelf</b>, <span class="gh_only_w"><b>Latias</b>, </span><span class="gh_only_b"><b>Latios</b>, </span><span class="gh_only_w"><b>Regice</b>, </span><span class="gh_only_b"><b>Registeel</b>, </span>and <b>Regirock</b>!
+                            </div>
+
+                            <div style="padding-bottom: 16px;">
+                                That's right, you will even have access to <b>Regigigas</b> which only appears if you bring <b>Regirock</b>, <b>Registeel</b>, and <b>Regice</b> to one game! 
+                            </div>
+                        </div>
+                    </td></tr>
+                </tbody></table>
+            </td>
+        </tr>
+
+    </tbody></table>
+    <table class="gh_t_a">
+        <tbody><tr>
+            <td class="gh_desc_a">
+                <table class="gh_desc_a_a" border="0" cellspacing="1">
+                    <tbody><tr><td class="gh_desc_head_b">All the Items and Musical Props</td></tr>
+                    <tr><td class="gh_desc_body">
+                        <div class="gh_screenshotdiv">
+
+                            <div class="gh_screenshotpics">
+                                <img src="images/screenshots/b2w2/items.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/musical.gif" alt="Loading" style="border: 1px solid black;" />
+                            </div>
+                        </div>
+                        <div class="gh_belowscreenshots" style="height: 126px;">
+                            <div style="padding-bottom: 6px;">
+                                Your game is preloaded with every possible item at the maximum quantity -- minus one, so you can still pick up the ones from the game story!
+                                Look forward to all the <b>Adventure Items</b>, <b>Medicine</b>, <b>Poké Balls</b>, <b>TMs &amp; HMs</b>, <b>Berries</b>, <b>Mail</b>, and <b>Battle Items</b>!
+                                Of course, all the <b>Musical Props</b> are included as well.
+                            </div>
+
+                            <div>
+                                However, if you wouldn't like all the items from the beginning, you can
+                                of course choose to exclude them (just like you can do with anything else listed here)
+                                while configuring your game with our Customizer!
+                            </div>
+                        </div>
+                    </td></tr>
+                </tbody></table>
+            </td>
+            <td class="gh_desc_a">
+                <table class="gh_desc_a_a" border="0" cellspacing="1">
+
+                    <tbody><tr><td class="gh_desc_head_b">Choose from Event Skins and Get All Box Wallpapers</td></tr>
+                    <tr><td class="gh_desc_body">
+                        <div class="gh_screenshotdiv">
+                            <div class="gh_screenshotpics">
+                                <img src="images/screenshots/b2w2/cgear.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/pokedex.gif" alt="Loading" style="border: 1px solid black;" />
+                                <img src="images/screenshots/b2w2/wallpapers.gif" alt="Loading" style="border: 1px solid black;" />
+                            </div>
+
+                        </div>
+                        <div class="gh_belowscreenshots" style="height: 126px;">
+                            <div style="padding-bottom: 6px;">
+                                Only here you will get to choose the most awesome Event Skins for your <b>C-Gear</b> and <b>Pokédex</b> devices!
+                                Our exclusive <a href="http://ebay.extremesaves.com/" target="_blank"><b>Pokémon DS Customizer</b></a> allows you to
+                                install one of these great wallpapers into your game.
+                            </div>
+
+                            <div>
+                                You can also decorate your PC Boxes with 8 supercool, well-designed Special Wallpapers right from the beginning of your adventure!
+                            </div>
+                        </div>
+                    </td></tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+
+    <table class="gh_t_a">
+        <tbody><tr>
+            <td class="gh_desc_a" style="width: 1000px;">
+                <table class="gh_desc_a_a" border="0" cellspacing="1">
+                    <tbody><tr><td class="gh_desc_head_a">Information and Instructions</td></tr>
+                    <tr><td class="gh_desc_body">
+                        <table style="width: 100%; font-size: 1em;">
+                            <tbody><tr class="gh_only_mail">
+
+                                <td colspan="2" style="width: 100%;">
+                                    <div class="gh_info_head">Mailing Instructions</div>
+                                    <div style="text-align: center;">
+                                        <div style="padding-bottom: 4px;">
+                                            You will <b>not</b> be buying the actual game in this auction.<br />
+                                            Here is where you can get the listed customizations uploaded onto
+                                            your own existing game card!
+                                        </div>
+
+                                        <div>
+                                            Please place your game in a bubble-protected envelope, along with a note detailing your eBay name!<br />
+                                            Our address is:
+                                        </div>
+                                        <div style="padding-top: 4px;">
+                                            ExtremeSaves<br />
+                                            ATTN: Kevin Kh.<br />
+                                            2638 Denton Ave<br />
+                                            Rosemead, CA 91770<br />
+                                            United States<br />
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="width: 50%;">
+
+                                    <div class="gh_info_head">Terms and Conditions</div>
+                                    <ul>
+                                        <li><b>Free Shipping</b> and <b>Tracking Information</b> to United States customers!</li>
+                                        <li class="gh_only_new">This game is an original and genuine Nintendo DS game we purchased from a local retail store.</li>
+                                        <li class="gh_only_mail">We won't break your game and handle it with care.</li>
+
+                                        <li class="gh_only_new">The game will be mailed out to you from California, United States <b>within 12 hours of your payment</b> and you will receive a free USPS shipping notification in your e-mail!</li>
+                                        <li class="gh_only_mail">Your game will be returned to you within <b>12 hours</b> of receiving it in the mail and you will receive a free Canada Post shipping notification in your e-mail!</li>
+                                        <li>Different shipping services (UPS or FedEx) are possible, but please contact us before bidding!</li>
+                                        <li class="gh_only_new">We offer a <b>30 Days Exchange or Money Back Guarantee</b>! There hasn't been a single problem with any games we shipped in the past four years, but if you do think there's something wrong, we'll ask you to send it back, and the day we receive it, we'll ship a brand new game to you! Additionally, you may also request your money back instead!</li>
+
+                                        <li class="gh_only_mail">We offer a <b>30 Days Exchange Guarantee</b>! There hasn't been a single problem with any games we customized in the past four years, but if you do think there's something wrong, we'll ask you to send it back, and the day we receive it, we'll fix it and return it to ya!</li>
+                                    </ul>
+                                </td>
+                                <td style="width: 50%;">
+                                    <div class="gh_info_head">Instructions for the Customizer</div>
+                                    <ul>
+                                        <li>Simply visit our exclusive <a href="http://ebay.extremesaves.com/" target="_blank"><b>Pokémon DS Customizer</b></a> to customize your very own Pokémon <span class="gh_only_b">Black</span><span class="gh_only_w">White</span> Version 2 game! You can do this either before or after winning the auction!</li>
+
+                                        <li>Once we receive both your customizations and your payment, your customized Pokémon <span class="gh_only_b">Black</span><span class="gh_only_w">White</span> Version 2 game will be mailed out to you within just 12 hours!</li>
+                                        <li class="gh_only_new"><b>Please Note:</b> If we do not receive a customization from you within 12 hours of your payment, we'll automatically send you a package of Level 100 Shiny Pokémon with a male Trainer named after your last name, all the extras, and a random Trainer ID number.</li>
+                                        <li class="gh_only_mail"><b>Please Note:</b> If we do not receive a customization from you by the time your game arrives in the mail, we'll automatically send your game back with Level 100 Shiny Pokémon with a male Trainer named after your last name, all the extras, and a random Trainer ID number.</li>
+
+                                        <li>If you do need more time to customize your game, just let us know by sending a message or an e-mail to us, and we'll gladly wait as long as you need!</li>
+                                        <li>When you receive the game, do not delete the existing savegame. Do that only if you no longer want these extras. You must "Continue" in order to enjoy these extras.</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                        <div style="text-align: center;">
+                            <br />
+                            &copy; 2012-2014 ExtremeSaves. All images in this listing may not be used without permission.
+                        We are in no way affiliated with Nintendo nor Pokémon.</div>
+
+                    </td></tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+    <div class="gh_bottomline">
+        
+        <br />
+        <br />
+        
+    </div>
+</div>
+<!-- End --><!-- End Description -->

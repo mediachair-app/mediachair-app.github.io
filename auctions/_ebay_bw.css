@@ -1,0 +1,162 @@
+body {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+ul {
+	padding: 0 0 0 16px;
+	margin: 0;
+}
+
+ul li {
+	padding: 0 0 2px 0;
+	text-align: left !important;
+}
+
+.gh_hide {
+	display: none;
+}
+
+div.gh_main {
+	font-family: Arial;
+	font-size: 1em;
+	text-align: center;
+	background-image: url('../images/auctions/bg_bw.jpg');
+	background-position: top center;
+}
+
+.gh_head {
+	height: 25px;
+}
+
+table.gh_t_a {
+	border: 1px solid #DBDBDB;
+	width: 1024px;
+	margin: 5px auto;
+	background-color: white;
+	height: 320px;
+}
+
+table.gh_t_a td {
+	padding: 0 10px;
+	vertical-align: top;
+}
+
+.gh_title {
+	font-size: 20pt;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 0.5em;
+}
+
+.gh_subtitle {
+	font-size: 1.2em;
+	text-align: center;
+}
+
+.gh_subtitle span {
+	color: #808080;
+}
+
+.gh_titletext {
+	padding-top: 1em;
+}
+
+.gh_boxart {
+	width: 320px;
+}
+
+.gh_title_a {
+	margin-top: 1em;
+}
+
+.gh_button {
+	float: left;
+	width: 198px;
+	height: 44px;
+	margin: 2px 4px;
+	/*background-color: #eee;*/
+}
+
+.gh_desc_a {
+	width: 488px;
+}
+
+.gh_desc_a_a {
+	width: 100%;
+	background-color: #DBDBDB;
+	font-size: 10pt;
+	margin: 2px;
+}
+
+.gh_desc_a table td {
+	padding: 6px;
+}
+
+.gh_desc_a .gh_desc_head_a {
+	background-color: #222222;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	font-size: 12pt;
+}
+
+.gh_desc_a .gh_desc_head_b {
+	background-color: #DDDDDD;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	font-size: 12pt;
+}
+
+.gh_desc_a .gh_desc_body {
+	background-color: white;
+}
+
+.gh_screenshotdiv {
+	border: 1px solid #DBDBDB;
+	width: 468px;
+	height: 216px;
+	overflow: auto;
+	overflow-y: hidden;
+	overflow-x: scroll;
+}
+
+.gh_screenshotpics {
+	padding: 3px;
+	white-space: nowrap;
+}
+
+.gh_screenshotpics div {
+	float: left;
+}
+
+.gh_belowscreenshots {
+	padding-top: 5px;
+	text-align: justify;
+}
+
+.gh_info_head {
+	padding-bottom: 5px;
+	text-align: center;
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+.gh_desc_msg {
+	text-align: center;
+	font-size: 11pt;
+}
+
+.gh_bottomline {
+	color: #808080;
+	text-align: center;
+	font-size: 8pt;
+}
+
+.gh_namechange {
+	padding-top: 10px;
+	text-align: center;
+	font-size: 8pt;
+	display: none;
+}
